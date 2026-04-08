@@ -5,7 +5,7 @@ The recommended installation method is Pixi, which creates the full environment 
 - Mojo
 - Python
 - plotting and data libraries
-- R dependencies for visualisation (optional)
+- R dependencies for visualisation (optional to use)
 
 Keep in mind that, as of April 2026, Mojo via Pixi is supported on macOS ARM and Linux. For other systems, check the official Mojo installation guide.
 
