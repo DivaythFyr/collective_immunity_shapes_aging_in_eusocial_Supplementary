@@ -25,7 +25,3 @@ pixi shell
 To run an experiment, enter a particular experimtn folder and run the main Mojo file.
 
 Each experiment writes CSV output. Visualization can also be enabled by uncommenting the visualization call in main.mojo. but this was not used for the main project results.
-
-### Parameter Table
-
-![Parameter table](docs/images/parameter_table.png)
