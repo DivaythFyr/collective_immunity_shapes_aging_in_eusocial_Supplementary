@@ -19,7 +19,7 @@ The recommended installation method is **Pixi**, which creates the full environm
 
 ```bash
 pixi install
-pixi shell
+pixi shell```
 
 ### Running
 To run each experiment enter the folder and run main.mojo file (recommended to look at it before running). The output of each experiment is csv file (visualisation is possible through uncommenting create_animated_visualization(simulation_data), but it was not used in the project).
