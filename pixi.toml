@@ -1,0 +1,21 @@
+[workspace]
+channels = ["https://conda.modular.com/max-nightly", "conda-forge"]
+name = "Bee_eusociality_project"
+platforms = ["osx-arm64", "linux-64", "linux-aarch64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+mojo = "0.26.*"
+python = "==3.11"
+matplotlib = ">=3.10.6,<4"
+pandas = ">=2.3.2,<3"
+pillow = ">=11.3.0,<12"
+numpy = ">=2.3.3,<3"
+rpy2 = ">=3.6.3,<4"
+r-base = ">=4.4.3,<4.5"
+r-ggplot2 = ">=4.0.0,<5"
+r-ggthemes = ">=5.1.0,<6"
+r-dplyr = ">=1.1.4,<2"
+r-tidyr = ">=1.3.1,<2"
