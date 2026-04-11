@@ -7,7 +7,7 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-mojo = "0.26.*"
+mojo = "==0.26.1.0.dev2025120205"
 python = "==3.11"
 matplotlib = ">=3.10.6,<4"
 pandas = ">=2.3.2,<3"
