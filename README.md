@@ -2,7 +2,7 @@
 This project uses Mojo for the simulation code and Python for visualization and analysis.
 
 The recommended installation method is Pixi, which creates the full environment from [pixi.toml](pixi.toml), including:
-- Mojo
+- Mojo 0.26.1.0.dev2025120205
 - Python
 - plotting and data libraries
 - R dependencies for visualisation (optional to use)
